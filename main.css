@@ -6,30 +6,22 @@ body{
     rgb(22, 189, 189) 100%)
 }
 iframe{
-    margin-left: 12cm;
     height: 100%;
     border-radius: 10px;
 }
 h1{
-    margin-left: 9cm;
     font-size: 50px;
 }
 h3{
-    margin-left: 14cm;
     color: darkorange;
 }
-br{
-    margin: 15px;
-}
 h2{
-    margin-left: 5cm;
 }
 img{
     border-radius: 20px;
     margin-left: 10cm;
 }
 video{
-    margin-left: 12cm;
     height: 175;
     border-radius: 10px;
 }
